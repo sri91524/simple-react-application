@@ -1,0 +1,23 @@
+header h1
+{
+    color:rgb(237, 30, 30);  
+    font-size: 3em;
+    text-align: center;
+    padding:10px;
+    background-image:url('../images/newyorktimes.jpg');
+    background-position:cover;
+
+}
+
+header h4{  
+font-size: 1em; 
+margin:  auto;
+text-align: center;
+padding:10px;
+}
+
+.topic{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(20, 47, 129);    
+}

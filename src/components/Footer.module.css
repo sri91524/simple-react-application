@@ -1,0 +1,18 @@
+footer{
+    display:flex;
+    justify-content:space-around;
+    padding: 0px;
+    list-style-type: none;
+    padding:10px;
+    background-color:bisque;
+
+  }
+  
+  footer a{
+    color:rgb(49, 39, 114);
+    text-decoration: none;
+  }
+  
+  footer span{
+    color:rgb(49, 39, 114);
+  }
